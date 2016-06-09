@@ -1,28 +1,10 @@
-2016-06-09 11:20:53,259 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/semenovs/Projects/MavenProject/pom.xml
-2016-06-09 11:20:54,816 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pktbcki.org.rzd:MavenProject:0.0.1-SNAPSHOT @ /home/semenovs/Projects/MavenProject/pom.xml.
-2016-06-09 11:20:56,330 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenProject/src/main/java
-2016-06-09 11:20:56,332 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /MavenProject/src/test/java
-2016-06-09 11:20:57,149 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
-2016-06-09 11:20:58,156 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2016-06-09 11:20:58,156 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/semenovs/Projects/MavenProject/src/main/resources
-2016-06-09 11:20:58,159 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2016-06-09 11:20:58,159 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/semenovs/Projects/MavenProject/src/test/resources
-2016-06-09 11:21:10,794 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2016-06-09 11:21:10,796 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/semenovs/Projects/MavenProject/src/main/resources
-2016-06-09 11:21:10,797 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2016-06-09 11:21:10,797 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/semenovs/Projects/MavenProject/src/test/resources
-2016-06-09 11:21:40,337 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: pktbcki.org.rzd:MavenProject:0.0.1-SNAPSHOT @ /home/semenovs/Projects/MavenProject/pom.xml.
-2016-06-09 11:21:40,502 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2016-06-09 11:21:40,503 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/semenovs/Projects/MavenProject/src/main/resources
-2016-06-09 11:21:40,506 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2016-06-09 11:21:40,506 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/semenovs/Projects/MavenProject/src/test/resources
-2016-06-09 11:21:41,795 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2016-06-09 11:21:41,795 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/semenovs/Projects/MavenProject/src/main/resources
-2016-06-09 11:21:41,796 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2016-06-09 11:21:41,796 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/semenovs/Projects/MavenProject/src/test/resources
-2016-06-09 11:21:55,182 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/semenovs/Projects/MavenProject
-2016-06-09 11:21:55,183 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
-2016-06-09 11:22:01,231 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2016-06-09 11:22:01,232 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/semenovs/Projects/MavenProject/src/main/resources
-2016-06-09 11:22:01,233 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
-2016-06-09 11:22:01,233 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/semenovs/Projects/MavenProject/src/test/resources
+2016-06-09 13:56:33,254 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 13:56:33,254 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/semenovs/Projects/MavenProject/src/main/resources
+2016-06-09 13:56:33,255 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 13:56:33,256 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/semenovs/Projects/MavenProject/src/test/resources
+2016-06-09 13:56:41,721 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/semenovs/Projects/MavenProject
+2016-06-09 13:56:41,722 [Worker-36] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2016-06-09 13:56:45,301 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 13:56:45,301 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/semenovs/Projects/MavenProject/src/main/resources
+2016-06-09 13:56:45,302 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-09 13:56:45,303 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/semenovs/Projects/MavenProject/src/test/resources
