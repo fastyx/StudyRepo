@@ -1,4 +1,3 @@
+#gitignore file config
 .metadata
-.j
-*.a
-*.t
+RemoteSystemsTempFiles
